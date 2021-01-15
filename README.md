@@ -12,7 +12,7 @@
 
 ## About
 
-Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. For more info on [PowerToys overviews and guides][usingPowerToys-docs-link], or any other tools and resources for [Windows development environments](https://docs.microsoft.com/windows/dev-environment/overview), head over to [docs.microsoft.com][usingPowerToys-docs-link]! 
+Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. For more info on [PowerToys overviews and guides][usingPowerToys-docs-link], or any other tools and resources for [Windows development environments](https://docs.microsoft.com/windows/dev-environment/overview), head over to [docs.microsoft.com][usingPowerToys-docs-link]!
 
 |   | Current utilities: |   |
 |--------------|--------|--------|
@@ -27,7 +27,7 @@ Microsoft PowerToys is a set of utilities for power users to tune and streamline
 - Windows 10 v1903 (build 18362) or better preferred, Windows 10 v1803 (build 17134) minimum.  
 - Have [.NET Core 3.1 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet-core/thank-you/runtime-desktop-3.1.10-windows-x64-installer). The installer should handle this but we want to directly make people aware.
 
-### Via GitHub with EXE [Recommended]
+### Via GitHub with EXE (Recommended Method)
 
 #### Stable version
 
@@ -83,7 +83,7 @@ Our [prioritized roadmap][roadmap] of features and utilities that the core team 
 
 **General**
 - Bug report tool and improved logging.
-- Various localization improvements. 
+- Various localization improvements.
 - CodeQL added.  Triggered via a cron timer twice a day.
 - "How to use" docs moved to https://docs.microsoft.com/windows/powertoys/
    - This will allow the community to do direct PRs against those documents
@@ -91,7 +91,7 @@ Our [prioritized roadmap][roadmap] of features and utilities that the core team 
 **ARM64 Progress**
 - .NET Core upgrade for code bases the PowerToys team controls is complete.  We still have two external dependencies that are .NET Framework that need to be updated.
 
-**Color Picker** 
+**Color Picker**
 - General bug fixes
 - Added ability to provide the name of the color at parity with Office and WinUI Color Picker.
 
@@ -109,20 +109,20 @@ Our [prioritized roadmap][roadmap] of features and utilities that the core team 
 
 We'd like to directly mention (in alphabetical order) for their continued community support this month and helping directly make PowerToys a better piece of software.  
 
-[@Aaron-Junker](https://github.com/Aaron-Junker), 
-[@benjamhooper](https://github.com/benjamhooper), 
-[@davidegiacometti](https://github.com/davidegiacometti), 
-[@eriawan](https://github.com/eriawan), 
-[@htcfreek](https://github.com/htcfreek), 
-[@jay-o-way](https://github.com/jay-o-way), 
-[@jhutchings1](https://github.com/jhutchings1), 
-[@jsoref](https://github.com/jsoref), 
-[@martinchrzan](https://github.com/martinchrzan), 
-[@niels9001](https://github.com/niels9001), 
-[@riverar](https://github.com/riverar), 
-[@snickler](https://github.com/snickler), 
-and 
-[@TobiasSekan](https://github.com/TobiasSekan) 
+[@Aaron-Junker](https://github.com/Aaron-Junker),
+[@benjamhooper](https://github.com/benjamhooper),
+[@davidegiacometti](https://github.com/davidegiacometti),
+[@eriawan](https://github.com/eriawan),
+[@htcfreek](https://github.com/htcfreek),
+[@jay-o-way](https://github.com/jay-o-way),
+[@jhutchings1](https://github.com/jhutchings1),
+[@jsoref](https://github.com/jsoref),
+[@martinchrzan](https://github.com/martinchrzan),
+[@niels9001](https://github.com/niels9001),
+[@riverar](https://github.com/riverar),
+[@snickler](https://github.com/snickler),
+and
+[@TobiasSekan](https://github.com/TobiasSekan)
 
 #### What is being planned for v0.31 - January 2021
 
